@@ -1,0 +1,3 @@
+include LICENSE README.md NOTICE.md
+recursive-include src/olvq/vendor *LICENSE
+recursive-include tests *.py
