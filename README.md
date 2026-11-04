@@ -1,8 +1,26 @@
-# OLVQ
+<h1 align="center">OLVQ</h1>
 
-Official PyTorch implementation of **Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression** (NeurIPS 2024), by Xi Zhang and Xiaolin Wu.
+<h3 align="center">
+  Learning Optimal Lattice Vector Quantizers<br>
+  for End-to-end Neural Image Compression
+</h3>
 
-[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c09916f6f0c428a97a09a53648e5002e-Abstract-Conference.html) · [arXiv](https://arxiv.org/abs/2411.16119)
+<p align="center">Xi Zhang &nbsp;·&nbsp; Xiaolin Wu</p>
+<p align="center"><strong>Official PyTorch Implementation · NeurIPS 2024</strong></p>
+
+<p align="center">
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/c09916f6f0c428a97a09a53648e5002e-Abstract-Conference.html"><img src="https://img.shields.io/badge/NeurIPS-2024-6846C1?style=flat-square" alt="NeurIPS 2024 Paper"></a>
+  <a href="https://arxiv.org/abs/2411.16119"><img src="https://img.shields.io/badge/arXiv-2411.16119-B31B1B?style=flat-square" alt="arXiv:2411.16119"></a>
+  <a href="#installation"><img src="https://img.shields.io/badge/PyTorch-2.2.2-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch 2.2.2"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-BSD--3--Clause-238636?style=flat-square" alt="BSD 3-Clause License"></a>
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> &nbsp;·&nbsp;
+  <a href="#training">Training</a> &nbsp;·&nbsp;
+  <a href="#probability-head-and-real-coding">Real Coding</a> &nbsp;·&nbsp;
+  <a href="#citation">Citation</a>
+</p>
 
 ## Features
 
