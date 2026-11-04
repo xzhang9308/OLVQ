@@ -95,11 +95,12 @@ Released under [BSD-3-Clause](LICENSE). TCM retains its MIT license; see [third-
 If you use OLVQ in your research, please cite:
 
 ```bibtex
-@inproceedings{zhang2024olvq,
-  title     = {Learning Optimal Lattice Vector Quantizers for End-to-end Neural Image Compression},
-  author    = {Zhang, Xi and Wu, Xiaolin},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2024},
-  url       = {https://proceedings.neurips.cc/paper_files/paper/2024/hash/c09916f6f0c428a97a09a53648e5002e-Abstract-Conference.html}
+@article{zhang2024learning,
+  title={Learning optimal lattice vector quantizers for end-to-end neural image compression},
+  author={Zhang, Xi and Wu, Xiaolin},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={106497--106518},
+  year={2024}
 }
 ```
